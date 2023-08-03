@@ -1,0 +1,22 @@
+.h1 {
+    background-color:gray;
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.strong {
+    color: red;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
